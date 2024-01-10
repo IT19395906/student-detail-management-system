@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stname": "st1",
+      "address": "address1",
+      "contact": "0116",
+      "image": null,
+      "doa": "2024-01-10",
+      "dob": "2024-01-10"
+    },
+    {
+      "id": 2,
+      "stname": "st2",
+      "address": "address2",
+      "contact": "0117",
+      "image": null,
+      "doa": "2024-01-10",
+      "dob": "2024-01-10"
+    },
+    {
+      "id": 3,
+      "stname": "st3",
+      "address": "address3",
+      "contact": "0117",
+      "image": "src/assets/2086809.jpg",
+      "doa": "2024-01-10",
+      "dob": "2024-01-10"
+    }
+  ]
+}
